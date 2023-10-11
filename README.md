@@ -1,1 +1,1 @@
-# plot_sms_diff_model
+# plot simultaneous multi slice (SMS) diffusion MRI forward model
